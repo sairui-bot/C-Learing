@@ -8,7 +8,7 @@ int main()
 int hour1, minute1;
 int hour2, minute2;
 
-printf("Please enter first time!\n");
+printf("Please enter the first time!\n");
 
 scanf("%d:%d", &hour1, &minute1);
 
